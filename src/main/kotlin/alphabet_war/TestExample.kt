@@ -1,4 +1,4 @@
-package alphabetWar
+package alphabet_war
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

@@ -1,4 +1,4 @@
-package alphabetWar
+package alphabet_war
 
 val leftSide = mapOf(
     'w' to 4,
